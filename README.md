@@ -276,15 +276,6 @@ Optional Features
 
 -   **Caching**: Implement a caching mechanism to reduce the number of calls to external news APIs.
 
--   **Mark Articles as Read/Favorite**:
-
-    -   Implement endpoints to mark articles as read or favorite.
-
-    -   Retrieve all read or favorite articles.
-
--   **Search News**:
-
-    -   Implement an endpoint to search for news articles based on keywords.
 
 * * * * *
 
