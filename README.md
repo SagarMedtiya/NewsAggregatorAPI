@@ -248,9 +248,9 @@ http://localhost:8080
         ]
     }
 ```
-![Postman Testing](screenhshots/ASS pic 2.png)
+![Postman Testing](screenhshots/pic2.png)
 
-![H2 Database](screenhshots/Ass 1 pic.png)
+![H2 Database](screenhshots/pic1.png)
 * * * * *
 
 Testing the API
